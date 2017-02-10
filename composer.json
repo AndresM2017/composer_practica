@@ -1,0 +1,19 @@
+{
+    "name": "AndresM2017/composer_practica",
+    "description": "Practica composer",
+    "type": "library",
+    "license": "G",
+    "authors": [
+        {
+            "name": "andres maldonado",
+            "email": "jhony.master2000@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/" 
+        }
+    }
+}
